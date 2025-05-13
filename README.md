@@ -40,7 +40,7 @@
 
 ## 🔗 Contact
 
-- 📫 Email : yourmail@example.com  
+- 📫 Email : devyej8753@gmail.com  
 - 📌 Blog : [벨로그](https://velog.io/@yourvelog)  
 - 🗂️ Portfolio : [Notion 링크](https://notion.so/yourportfolio)
 
