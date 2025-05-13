@@ -7,16 +7,17 @@
 ---
 
 ## 👋 About Me
-> 사용성과 협업을 중시하는 백엔드 개발자 이예준입니다.  
-> 실시간 기능과 사용자 중심의 설계 경험을 바탕으로,  
+
+> 사용성과 협업을 중시하는 백엔드 개발자 이예준입니다.
+> 실시간 기능과 사용자 중심의 설계 경험을 바탕으로,
 > 신뢰성과 확장성을 갖춘 웹 서비스를 만드는 것을 목표로 하고 있습니다.
 
 ---
 
 ## 💻 Tech Stack
 
-| Language | DB | Build & Deploy | Tools | Framework & UI |
-|----------|----|----------------|-------|----------------|
+| Language              | DB      | Build & Deploy                      | Tools                             | Framework & UI                               |
+| --------------------- | ------- | ----------------------------------- | --------------------------------- | -------------------------------------------- |
 | Java, HTML5, CSS3, JS | MariaDB | Maven, Gradle, Docker, AWS, Jenkins | IntelliJ, Eclipse, VSCode, GitHub | Spring Boot, MyBatis, JSP, jQuery, Bootstrap |
 
 ---
@@ -24,23 +25,31 @@
 ## 📌 Projects
 
 ### 💼 그룹웨어 플랫폼 (Eroom)
+
 > 사내 협업을 위한 실시간 채팅 / 파일 관리 / 뉴스·날씨 API 통합 그룹웨어
 
-- 주요 기능: 실시간 채팅, 드라이브 파일 관리, 알림 및 읽음 처리, API 연동
-- 기술 스택: Java 17, Spring Boot 3, JPA, WebSocket, Docker, AWS EC2
-- GitHub: [프로젝트 저장소 바로가기](https://github.com/hsjeondev/eroom)
+* 주요 기능: 실시간 채팅, 드라이브 파일 관리, 알림 및 읽음 처리, API 연동
+* 기술 스택: Java 17, Spring Boot 3, JPA, WebSocket, Docker, AWS EC2
+* GitHub: [프로젝트 저장소 바로가기](https://github.com/hsjeondev/eroom)
+
+### 🎨 클래스 플랫폼 (LumoDiem)
+
+> 다양한 원데이 클래스를 예약·후기·관리할 수 있는 리뷰 중심 클래스 플랫폼
+
+* 주요 기능: 리뷰 게시판 CRUD, Summernote 이미지 포함, 클래스 예약/취소, 정원 제한, 중복 방지
+* 기술 스택: Java, JSP, EL/JSTL, MyBatis, Servlet, jQuery, Bootstrap, MariaDB
+* GitHub: [프로젝트 저장소 바로가기](https://github.com/devkskg/LumoDiem)
 
 ---
 
 ## 📚 Certificate
 
-- KDT 자바 백엔드 개발자 과정 수료 (고용노동부/HRD)
+* KDT 자바 백엔드 개발자 과정 수료 (고용노동부/HRD)
 
 ---
 
 ## 🔗 Contact
 
-- 📫 Email : devyej8753@gmail.com  
-- 📌 Blog : [벨로그](https://velog.io/@yourvelog)  
-- 🗂️ Portfolio : [Notion 링크](https://notion.so/yourportfolio)
-
+* 📫 Email : [devyej8753@gmail.com](mailto:devyej8753@gmail.com)
+* 📌 Blog : [벨로그](https://velog.io/@yourvelog)
+* 🗂️ Portfolio : [Notion 링크](https://notion.so/yourportfolio)
