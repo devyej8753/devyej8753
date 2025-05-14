@@ -38,7 +38,7 @@
 
 * 주요 기능: 리뷰 게시판 CRUD, Summernote 이미지 포함, 클래스 예약/취소, 정원 제한, 중복 방지
 * 기술 스택: Java, JSP, EL/JSTL, MyBatis, Servlet, jQuery, Bootstrap, MariaDB
-* GitHub: [프로젝트 저장소 바로가기](https://github.com/devkskg/LumoDiem)
+* GitHub: [프로젝트 저장소 바로가기](https://github.com/devyej8753/LumoDiem)
 
 ---
 
