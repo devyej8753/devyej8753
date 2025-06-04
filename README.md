@@ -30,7 +30,7 @@
 
 * 주요 기능: 실시간 채팅, 드라이브 파일 관리, 알림 및 읽음 처리, API 연동
 * 기술 스택: Java 17, Spring Boot 3, JPA, WebSocket, Docker, AWS EC2
-* GitHub: [프로젝트 저장소 바로가기](https://github.com/hsjeondev/eroom)
+* GitHub: [프로젝트 저장소 바로가기](https://github.com/devyej8753/Eroom)
 
 ### 🎨 클래스 플랫폼 (LumoDiem)
 
